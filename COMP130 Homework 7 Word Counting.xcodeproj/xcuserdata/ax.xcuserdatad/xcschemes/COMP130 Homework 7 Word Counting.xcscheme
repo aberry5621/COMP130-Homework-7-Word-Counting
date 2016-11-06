@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E2E404961DCCED75008761FD"
+               BuildableName = "COMP130 Homework 7 Word Counting"
+               BlueprintName = "COMP130 Homework 7 Word Counting"
+               ReferencedContainer = "container:COMP130 Homework 7 Word Counting.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -13,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E2E404961DCCED75008761FD"
+            BuildableName = "COMP130 Homework 7 Word Counting"
+            BlueprintName = "COMP130 Homework 7 Word Counting"
+            ReferencedContainer = "container:COMP130 Homework 7 Word Counting.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +51,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E2E404961DCCED75008761FD"
+            BuildableName = "COMP130 Homework 7 Word Counting"
+            BlueprintName = "COMP130 Homework 7 Word Counting"
+            ReferencedContainer = "container:COMP130 Homework 7 Word Counting.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +70,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E2E404961DCCED75008761FD"
+            BuildableName = "COMP130 Homework 7 Word Counting"
+            BlueprintName = "COMP130 Homework 7 Word Counting"
+            ReferencedContainer = "container:COMP130 Homework 7 Word Counting.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

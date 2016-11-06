@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E2E4049B1DCCED75008761FD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2E4049A1DCCED75008761FD /* main.cpp */; };
+		E2E404A31DCCEDB0008761FD /* class_i.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2E404A21DCCEDB0008761FD /* class_i.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		E2E404971DCCED75008761FD /* COMP130 Homework 7 Word Counting */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "COMP130 Homework 7 Word Counting"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2E4049A1DCCED75008761FD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E2E404A11DCCED96008761FD /* class_d.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = class_d.h; sourceTree = "<group>"; };
+		E2E404A21DCCEDB0008761FD /* class_i.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = class_i.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				E2E4049A1DCCED75008761FD /* main.cpp */,
+				E2E404A11DCCED96008761FD /* class_d.h */,
+				E2E404A21DCCEDB0008761FD /* class_i.cpp */,
 			);
 			path = "COMP130 Homework 7 Word Counting";
 			sourceTree = "<group>";
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2E404A31DCCEDB0008761FD /* class_i.cpp in Sources */,
 				E2E4049B1DCCED75008761FD /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
